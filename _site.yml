@@ -1,9 +1,27 @@
-name: "Joseph-Aliwebsite"
+
+name: "Joseph-Ali Website"
 navbar:
-  title: "Joseph-AliWebsite"
+  title: "Joseph-Ali Website"
   left:
     - text: "Home"
       href: index.html
+      icon: fa-home
     - text: "About"
       href: about.html
+      icon: fa-book-open
+    - text: "Projects"
+      href: projects.html
+      icon: fa-computer
+    - text: "Curriculum Vitae"
+      href: files/cv_full.pdf
+      icon: fa-paperclip
+  right:
+    - href: https://github.com/Chiefali/website
+      icon: fa-github
+    - href: https://www.linkedin.com/in/josephdantaniali/
+      icon: fa-linkedin
 output_dir: docs
+output:
+  html_document:
+    theme: darkly
+    css: styles.css

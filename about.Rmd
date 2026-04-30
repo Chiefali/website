@@ -2,4 +2,62 @@
 title: "About This Website"
 ---
 
-More about this website.
+## About This Website
+
+This website serves as a professional portfolio showcasing my academic work, research projects, and interests in public health, global health, and data science.
+
+It was developed using **R Markdown** and deployed through :contentReference[oaicite:0]{index=0} Pages to provide a clean, accessible platform for presenting my work to a broad audience.
+
+---
+
+## Purpose
+
+The purpose of this site is to:
+
+- Present my graduate-level projects in a clear and accessible format  
+- Highlight my work in public health and data science  
+- Provide access to my thesis, dashboard, and professional experience  
+- Demonstrate my ability to communicate complex ideas to a general audience  
+
+---
+
+## Audience
+
+This website is intended for:
+
+- Public health professionals  
+- Researchers and academics  
+- Policy makers and community stakeholders  
+- Potential collaborators and employers  
+
+---
+
+## Design & Features
+
+This site includes:
+
+- A structured navigation bar for easy access to all pages  
+- Custom styling using CSS to enhance layout and readability  
+- Project showcases using structured content and visual organization  
+- Links to external platforms such as GitHub and LinkedIn  
+
+---
+
+## Technical Approach
+
+The website was built using:
+
+- R Markdown for content development  
+- HTML and CSS for layout customization  
+- GitHub Pages for hosting and deployment  
+
+---
+
+## Contact & Professional Links
+
+You can explore more of my work through the following platforms:
+
+- 🔗 :contentReference[oaicite:1]{index=1}: https://github.com/Chiefali  
+- 🔗 :contentReference[oaicite:2]{index=2}: https://www.linkedin.com/in/josephdantaniali/  
+
+---

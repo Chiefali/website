@@ -1,9 +1,44 @@
 ---
-title: "My Website"
+title: ""
 ---
+::: columns
+::: {.column width="50%" style="text-align: center;"}
 
-Hello, Website!
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+```{r, echo=FALSE, fig.align='center', out.width='45%'}
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+knitr::include_graphics("images/headshot.jpg")
+```
+
+
+
+## Joseph Ali
+
+:::
+
+::: {.column width="50%" style="text-align: left;"}
+Joseph D. Ali
+
+MPhil, Risk Management and Insurance
+University of Ghana, 2020
+
+BSc, Business Administration (Insurance Option)
+University of Ghana, 2011
+
+Diploma in Nursing
+Bolgatanga Nurses Training College, 2004
+:::
+Welcome
+
+I am deeply interested in a world where creativity, innovation, and exploration—both on Earth and in space—serve as pathways to peace and unity among people. I believe that advancing knowledge and fostering collaboration across disciplines can help build a more respectful, values-driven global society.
+
+My background spans healthcare, public health, business, academia, and international global health, providing me with a multidisciplinary perspective on complex global challenges. Through my work, I aim to use knowledge, research, and data-driven approaches to bring people closer together, promote mutual respect, and improve health outcomes across diverse communities.
+
+I am particularly committed to advancing health equity, strengthening public health systems, and supporting culturally relevant approaches to global health practice.
+
+Research & Interests
+Global Health Systems
+Health Equity and Social Determinants of Health (SDOH)
+Tribal Public Health Data Systems
+Public Health Surveillance and Data Science
+:::

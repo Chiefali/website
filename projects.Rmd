@@ -1,0 +1,103 @@
+---
+title: " Projects"
+---
+
+## Graduate Projects
+
+<div class="project-card">
+
+This section highlights selected graduate-level work focused on public health, data science, and global health systems.
+---
+
+<div class="project-card">
+
+## Title
+*A Data Science Workflow for Strengthening Tribal Public Health Surveillance:
+Development and Evaluation of a Social Determinants of Health Dashboard and Training
+Framework*
+
+### Abstract
+Abstract
+A Data Science Workflow for Strengthening Tribal Public Health Surveillance: Development
+and Evaluation of a Social Determinants of Health Dashboard and Training Framework
+By Joseph Ali
+Indigenous public health systems operate within structurally constrained data environments
+characterized by small population sizes, frequent data suppression, racial misclassification, and
+fragmentation across Tribal, state, and federal data sources. These limitations produce incomplete,
+unstable, and often non-interpretable estimates, restricting the ability of Tribal public health analysts
+to generate timely and actionable insights for decision-making. While existing statistical
+methods address aspects of data sparsity and bias, these approaches are rarely translated into practice
+due to constraints in data access, computational infrastructure, and local analytic capacity.
+In addition to these structural data challenges, current approaches to training and education
+within Tribal public health systems remain limited in their ability to support methodological understanding
+of these issues. These limitations are further compounded by misalignment between
+Tribal and state public health systems, where data are often produced, defined, and disseminated
+within state or federal frameworks that do not reflect Tribal governance, population definitions, or
+service contexts. This disconnect can make it difficult for Tribal public health analysts to interpret,
+reconcile, and apply externally generated data within their own settings.
+Training is often episodic, externally delivered, and focused on the use of specific tools or platforms
+rather than on developing a conceptual understanding of data limitations such as small-area
+instability, measurement error, and cross-source inconsistency. Consequently, there is a disconnect
+between tool use and methodological understanding, limiting both the interpretation of results and
+the ability to develop or adapt analytic approaches in ways that reflect the nuances of Tribal data
+and context. As a result, Tribal public health analysts may be expected to use and interpret complex
+and imperfect data without the training needed to diagnose bias, assess uncertainty, or evaluate the
+implications of integrating multiple data sources. Critically, there are few accessible frameworks
+or tools that enable Tribal public health departments to not only recognize these limitations, but to
+engage with them in a meaningful analytic way.
+In response, this study develops and evaluates an applied data science workflow for strengthening
+Tribal public health surveillance under real-world data constraints. In collaboration with
+Cherokee Nation Public Health (CNPH), we developed an interactive R Shiny dashboard that harmonizes
+county-level Social Determinants of Health (SDOH) data from federal (ACS5, USDA),
+state (OK2Share), and Tribal (CNPH) sources, organizing 20 indicators into six SDOH domains:
+Economic Instability, Education Attainment, Housing and Transportation Barriers, Health Care
+Access, Environmental Burden, and Social and Community Context. The dashboard includes five
+analytic modules supporting spatial mapping, county profiling, cluster analysis, tradeoff assessment,
+and scenario-based exploration. A structured training and capacity-building framework was
+embedded directly within the dashboard and evaluated through a mixed-methods focus group session
+and user feedback survey with five CNPH analysts.
+The evaluation demonstrated strong overall usability (mean rating 4.33 out of 5.0) and high
+ratings for map navigation and SDOH domain clarity. A critical finding was the distinction between
+usability and interpretability: while participants navigated the interface with ease, interpretation
+of standardized metrics—including z-scores, composite domain scores, and percentile
+rankings—presented greater difficulty (mean score 3.67), underscoring that accessible tools do
+not automatically produce analytic understanding. The resulting framework provides a practical
+and theoretically grounded model for locally governed, data-driven public health decision-making
+in Tribal settings, demonstrating that effective surveillance infrastructure requires not only data
+integration and visualization, but also embedded training, interpretability support, and iterative
+refinement aligned with Indigenous Data Sovereignty principles.
+
+
+### View Thesis
+## Read the Thesis
+
+This page provides a summary of the thesis.  
+To access the full document, use the download link below.
+
+### Download
+📄 [Download Full Thesis (PDF)](Joseph_Ali_SpringETD.pdf)
+</div>
+
+
+---
+<div class="project-card">
+
+## 1. Tribal Public Health Surveillance Dashboard
+
+### Overview
+This project developed an interactive dashboard designed to support public health decision-making in Tribal communities. The goal was to bring together multiple sources of health and social data into one accessible platform.
+
+The dashboard helps users explore patterns in community health, compare counties, and better understand factors that influence health outcomes.
+
+### Why It Matters
+Public health data for Tribal communities is often fragmented or difficult to interpret. This tool helps make data more accessible and useful for real-world decision-making.
+
+### Key Features
+- Interactive maps and visualizations  
+- Integration of federal, state, and Tribal data  
+- Focus on Social Determinants of Health (SDOH)  
+- User-friendly design for non-technical audiences  
+
+### R shiny app
+🔗 [View Dashboard Project](https://pbrbys-joseph-ali.shinyapps.io/project/)
+</div>
