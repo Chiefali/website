@@ -2,7 +2,6 @@
 title: "About This Website"
 ---
 
-## About This Website
 
 This website serves as a professional portfolio showcasing my academic work, research projects, and interests in public health, global health, and data science.
 

@@ -23,5 +23,5 @@ navbar:
 output_dir: docs
 output:
   html_document:
-    theme: darkly
+    theme: flatly
     css: styles.css
